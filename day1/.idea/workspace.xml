@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c29bad5-2d18-4953-9e4c-c167c844727c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../day1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/spiders/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/spiders/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/day1/spiders/book_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/day1/spiders/book_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/day1/scrapy.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Scrapy/day1/scrapy.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2igEXqaESdPofPlrkQ6Wl3oYqUm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jieun/PycharmProjects/kakao-ai-bootcamp/day1"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c29bad5-2d18-4953-9e4c-c167c844727c" name="Changes" comment="" />
+      <created>1719903862738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719903862738</updated>
+    </task>
+    <servers />
+  </component>
+</project>
