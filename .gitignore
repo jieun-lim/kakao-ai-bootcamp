@@ -1,7 +1,12 @@
+# Mac DS store 제외 
 .DS_Store
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+
+# ipynb files
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.*lesson.*/.pdf
+
+# 강의 파일 공개 제외
+*lesson*.pdf
