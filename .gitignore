@@ -16,6 +16,10 @@
 #genome_scores.csv
 # #rating.csv
 #**/data/*
-/data/*
+#/data/*
+**/data/*
+0717/data/genome_scores.csv
+0717/data/rating.csv
+
 
 
