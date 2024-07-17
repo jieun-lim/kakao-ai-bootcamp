@@ -14,6 +14,8 @@
 
 # 실습 데이터 무시 
 #genome_scores.csv
-#rating.csv
-**/data/*
+# #rating.csv
+#**/data/*
+/data/*
+
 
